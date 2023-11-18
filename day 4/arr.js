@@ -1,31 +1,31 @@
-let arr1 = ["A", "B", "C", "D", "E"];
-let arr2 = new Array("A", "B", "C", "D", "E");
+// let arr1 = ["A", "B", "C", "D", "E"];
+// let arr2 = new Array("A", "B", "C", "D", "E");
 
-console.log(arr1);
-console.log(arr2);
-//number
-//string
-//array
-//object
-//date
+// console.log(arr1);
+// console.log(arr2);
+// //number
+// //string
+// //array
+// //object
+// //date
 
-const arrNumber = [1, 2, 3, 4, 5]; // array of number
+// const arrNumber = [1, 2, 3, 4, 5]; // array of number
 const numbers = [1, 2, 3, 4, 5]; // array of number
-const books = ["buku ipa", "buku ips", "naruto", "komik one piece"];
+// const books = ["buku ipa", "buku ips", "naruto", "komik one piece"];
 
-const student1 = {
-  name: "udin",
-  email: "udin@mail.com",
-  age: 17,
-};
-const student2 = {
-  name: "ujang",
-  email: "ujang@mail.com",
-  age: 18,
-};
+// const student1 = {
+//   name: "udin",
+//   email: "udin@mail.com",
+//   age: 17,
+// };
+// const student2 = {
+//   name: "ujang",
+//   email: "ujang@mail.com",
+//   age: 18,
+// };
 
-const students = [student1, student2];
-console.log(students);
+// const students = [student1, student2];
+// console.log(students);
 
 // built in method array
 
